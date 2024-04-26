@@ -1,0 +1,28 @@
+.mystyle
+{
+    border: 2px solid black;
+    padding-left: 30px;
+    
+}
+.container-fluid
+{
+    margin: 0%;
+    padding: 0%;
+}
+.title-align
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+img
+{
+    width: 200px;
+    height: 250px;
+}
+#billform
+{
+    padding-top: 50%;
+}
